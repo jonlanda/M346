@@ -49,8 +49,29 @@ index.html
 
 ### C
 
+#### a)
+
 mysql shell
 ![mysql](/KN02/mysql.png)
 
 `telnet <ip> 3306`
 ![telnet](/KN02/mysql_telnet_connection.png)
+
+#### b)
+
+cloud-init-web index.html
+![index.html](/KN02/cloudinitweb_index.png)
+
+cloud-init-web info.php
+![info.php](/KN02/cloudinitweb_infophp.png)
+
+cloud-init-web db.php
+![db.php](/KN02/cloudinitweb_dbphp.png)
+
+cloud-init-web adminer
+![adminer](/KN02/cloudinitweb_adminer.png)
+
+
+
+
+
