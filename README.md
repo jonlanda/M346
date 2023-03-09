@@ -1,8 +1,8 @@
 # M346
 
 ## Inhaltsverzeichnis
-1. [KN01](#kn01)
-2. [KN02](#kn02)
+- [KN01](#kn01)
+- [KN02](#kn02)
 
 ## KN01
 
