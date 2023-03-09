@@ -1,0 +1,18 @@
+#cloud-config
+users: #User with his information
+  - name: ubuntu #username
+    sudo: ALL=(ALL) NOPASSWD:ALL #gives sudo rights
+    groups: users, admin #adds user in groups
+    home: /home/ubuntu #sets home directory
+    shell: /bin/bash #sets shell directory
+    lock_passwd: false #not locking the password for user
+    plain_text_passwd: 'password' #setting the password
+ssh_pwauth: true #needs password authoritation for ssh
+disable_root: false #root enabled
+packages: #packages that will be installed
+  - apache2
+  - curl
+  - wget
+  - php
+  - libapache2-mod-php
+  - php-mysqli
