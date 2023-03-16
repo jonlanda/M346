@@ -3,6 +3,7 @@
 ## Inhaltsverzeichnis
 - [KN01](#kn01)
 - [KN02](#kn02)
+- [KN03](#kn03)
 
 ## KN01
 
@@ -71,6 +72,21 @@ cloud-init-web db.php
 cloud-init-web adminer
 ![adminer](/KN02/cloudinitweb_adminer.png)
 
+## KN03
+
+### a)
+
+Website & URL
+![website](/KN03/htmlandurl.png)
+
+EC2 Instanzen
+![instances](/KN03/instances.png)
+
+Instanz details
+![instance_details](/KN03/instancedetails.png)
+
+Security Group & Inbound Rules
+![security_group&inbound_rules](/KN03/securitygroup.png)
 
 
 
