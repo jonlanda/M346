@@ -76,6 +76,8 @@ cloud-init-web adminer
 
 ### a)
 
+#### Lab 4.1 EC2
+
 Website & URL
 ![website](/KN03/htmlandurl.png)
 
@@ -88,6 +90,29 @@ Instanz details
 Security Group & Inbound Rules
 ![security_group&inbound_rules](/KN03/securitygroup.png)
 
+#### Lab 4.2 S3
 
+Liste der Buckets
+![buckets](/KN03/bucketlist.png)
 
+HTML Seite
+![website](/KN03/htmlandurlbucket.png)
 
+Dateien im Bucket
+![files](/KN03/dateienbucket.png)
+
+Static hosting
+![hosting](/KN03/statichosting.png)
+
+### b)
+
+Connect with ssh
+![ssh](/KN03/connectwithssh.png)
+
+### C)
+
+cloud-init
+![cloud-init](/KN03/cloud-init-ssh.yaml)
+
+ssh connection
+![ssh-command](/KN03/sshconnectC.png)
