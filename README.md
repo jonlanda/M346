@@ -4,6 +4,7 @@
 - [KN01](#kn01)
 - [KN02](#kn02)
 - [KN03](#kn03)
+- [KN04](#kn04)
 
 ## KN01
 
@@ -125,3 +126,9 @@ web-instance
 
 datenbank-instance
 ![db-instance](/KN04/dbinstance.png)
+
+web-yaml
+![yaml-web](/KN02/cloud-init-web.yaml)
+
+db-yaml
+![yaml-db](/KN02/cloud-init-db.yaml)
