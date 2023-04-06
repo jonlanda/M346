@@ -116,3 +116,12 @@ cloud-init
 
 ssh connection
 ![ssh-command](/KN03/sshconnectC.png)
+
+## KN04
+
+### a)
+web-instance
+![web-instance](/KN04/webinstance.png)
+
+datenbank-instance
+![db-instance](/KN04/dbinstance.png)
