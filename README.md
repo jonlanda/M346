@@ -128,7 +128,19 @@ datenbank-instance
 ![db-instance](/KN04/dbinstance.png)
 
 web-yaml
-![yaml-web](/KN02/cloud-init-web.yaml)
+[yaml-web](/KN04/cloudinit-web.yaml)
 
 db-yaml
-![yaml-db](/KN02/cloud-init-db.yaml)
+[yaml-db](/KN04/cloudinit-db.yaml)
+
+instances
+![instances](/KN04/instances.png)
+
+index.html
+![index.html](/KN04/indexhtml.png)
+
+info.php
+![info.php](/KN04/infophp.png)
+
+db.php
+![db.php](/KN04/dbphp.png)
