@@ -7,6 +7,9 @@
 - [KN04](#kn04)
 
 ## KN01
+- [B](#b)
+- [C](#c)
+- [D](#d)
 
 ### B
 
@@ -36,6 +39,9 @@ db.php
 ![db.php](/KN01/dbphp.png)
 
 ## KN02
+- [A](#a)
+- [B](#b)
+- [C](#c)
 
 ### A
 
@@ -74,8 +80,11 @@ cloud-init-web adminer
 ![adminer](/KN02/cloudinitweb_adminer.png)
 
 ## KN03
+- [A](#a)
+- [B](#b)
+- [C](#c)
 
-### a)
+### A
 
 #### Lab 4.1 EC2
 
@@ -105,12 +114,12 @@ Dateien im Bucket
 Static hosting
 ![hosting](/KN03/statichosting.png)
 
-### b)
+### B
 
 Connect with ssh
 ![ssh](/KN03/connectwithssh.png)
 
-### C)
+### C
 
 cloud-init
 ![cloud-init](/KN03/cloud-init-ssh.yaml)
@@ -119,8 +128,10 @@ ssh connection
 ![ssh-command](/KN03/sshconnectC.png)
 
 ## KN04
+- [A](#a)
+- [B](#b)
 
-### a)
+### A
 web-instance
 ![web-instance](/KN04/webinstance.png)
 
@@ -145,7 +156,7 @@ info.php
 db.php
 ![db.php](/KN04/dbphp.png)
 
-### b)
+### B
 
 #### a)
 S3 = Simple Storage Service S3 ist ein Objektspeichermodell.
