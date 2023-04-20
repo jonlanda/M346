@@ -40,8 +40,8 @@ db.php
 
 ## KN02
 - [A](#a)
-- [B](#b)
-- [C](#c)
+- [B](#b-1)
+- [C](#c-1)
 
 ### A
 
@@ -80,9 +80,9 @@ cloud-init-web adminer
 ![adminer](/KN02/cloudinitweb_adminer.png)
 
 ## KN03
-- [A](#a)
-- [B](#b)
-- [C](#c)
+- [A](#a-2)
+- [B](#b-3)
+- [C](#c-2)
 
 ### A
 
@@ -128,8 +128,8 @@ ssh connection
 ![ssh-command](/KN03/sshconnectC.png)
 
 ## KN04
-- [A](#a)
-- [B](#b)
+- [A](#a-3)
+- [B](#b-5)
 
 ### A
 web-instance
