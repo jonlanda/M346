@@ -144,3 +144,22 @@ info.php
 
 db.php
 ![db.php](/KN04/dbphp.png)
+
+### b)
+
+#### a)
+S3 = Simple Storage Service S3 ist ein Objektspeichermodell.
+
+#### b)
+Volumes
+![volumes](/KN04/volumes.png)
+
+Instance with Volume
+![instance_with_volume](/KN04/instancewithvolume.png)
+
+Delete Message
+![delete-message](/KN04/deletemessage.png)
+Man wird informiert, dass man alle Resourcen die mit dieser Instanz verbunden sind, bereinigen muss. Sonst können diese auch nach dem Löschen noch kosten verursachen.
+
+Das Volume existiert noch weil es ein externes Volume ist.
+
